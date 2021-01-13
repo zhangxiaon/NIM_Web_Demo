@@ -106,9 +106,9 @@ html, body {
     position: relative;
     overflow: visible;
     min-width: 1000px;
-    min-height: 720px;
+    min-height: 620px;
     width: 1002px;
-    padding: 100px 0;
+    padding: 15px 0;
     margin: 0 auto;
     background: url(../images/logo_bg.png) no-repeat center;
 }
